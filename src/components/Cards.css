@@ -1,0 +1,27 @@
+.cards {
+  padding: 2rem 0;
+  background: #fff;
+  height: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+
+.cards__container {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;
+  
+}
+
+
+
+
+
